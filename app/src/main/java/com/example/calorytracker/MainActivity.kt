@@ -9,7 +9,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.onboarding_presentation.welcome.WelcomeScreen
 import com.example.calorytracker.ui.theme.CaloryTrackerTheme
 import com.example.core.navigation.Route
-import com.plcoding.calorytracker.navigation.navigate
+import com.example.calorytracker.navigation.navigate
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
