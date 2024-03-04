@@ -3,11 +3,9 @@ package com.example.onboarding_presentation.weight
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
-import androidx.compose.ui.Modifier
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.core.domain.preferences.Preferences
-import com.example.core.domain.use_case.FilterOutDigits
 import com.example.core.navigation.Route
 import com.example.core.util.UiEvent
 import com.example.core.util.UiText
